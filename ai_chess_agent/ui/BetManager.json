@@ -1,0 +1,106 @@
+{
+	"abi": [
+		{
+			"inputs": [],
+			"stateMutability": "nonpayable",
+			"type": "constructor"
+		},
+		{
+			"inputs": [
+				{
+					"internalType": "uint256",
+					"name": "",
+					"type": "uint256"
+				},
+				{
+					"internalType": "uint256",
+					"name": "",
+					"type": "uint256"
+				}
+			],
+			"name": "bets",
+			"outputs": [
+				{
+					"internalType": "address",
+					"name": "bettor",
+					"type": "address"
+				},
+				{
+					"internalType": "uint256",
+					"name": "amount",
+					"type": "uint256"
+				},
+				{
+					"internalType": "bool",
+					"name": "onWhite",
+					"type": "bool"
+				}
+			],
+			"stateMutability": "view",
+			"type": "function"
+		},
+		{
+			"inputs": [],
+			"name": "feePercent",
+			"outputs": [
+				{
+					"internalType": "uint256",
+					"name": "",
+					"type": "uint256"
+				}
+			],
+			"stateMutability": "view",
+			"type": "function"
+		},
+		{
+			"inputs": [],
+			"name": "owner",
+			"outputs": [
+				{
+					"internalType": "address",
+					"name": "",
+					"type": "address"
+				}
+			],
+			"stateMutability": "view",
+			"type": "function"
+		},
+		{
+			"inputs": [
+				{
+					"internalType": "uint256",
+					"name": "gameId",
+					"type": "uint256"
+				},
+				{
+					"internalType": "bool",
+					"name": "onWhite",
+					"type": "bool"
+				}
+			],
+			"name": "placeBet",
+			"outputs": [],
+			"stateMutability": "payable",
+			"type": "function"
+		},
+		{
+			"inputs": [
+				{
+					"internalType": "uint256",
+					"name": "gameId",
+					"type": "uint256"
+				},
+				{
+					"internalType": "bool",
+					"name": "whiteWon",
+					"type": "bool"
+				}
+			],
+			"name": "settle",
+			"outputs": [],
+			"stateMutability": "nonpayable",
+			"type": "function"
+		}
+	],
+	"address": "0x3AbFb343A9F07C0d83Ad36fDe1Ee426bF7fDaba2"
+}
