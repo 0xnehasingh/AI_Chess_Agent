@@ -81,12 +81,23 @@ streamlit run ui/bet_app.py
 ## 🎯 How to Use
 
 ### Chess Game
+
+<img width="1440" alt="Screenshot 2025-06-04 at 7 43 26 PM" src="https://github.com/user-attachments/assets/6a11b76e-ff6d-46ae-aa0e-f0853452cd01" />
+
+<img width="1440" alt="Screenshot 2025-06-04 at 7 44 00 PM" src="https://github.com/user-attachments/assets/bac957a1-b866-4d4b-968e-ece118bc4b81" />
+
 1. Enter your OpenAI and/or Anthropic API keys in the sidebar
 2. Select which LLM to use for each agent (OpenAI or Anthropic)
 3. Set the maximum number of turns for the game
 4. Click "Start Game" to watch the AI agents play chess
 
 ### Placing Bets
+
+<img width="1440" alt="Screenshot 2025-06-04 at 7 46 21 PM" src="https://github.com/user-attachments/assets/d909e542-8556-40b6-8352-530c39eae85b" />
+
+<img width="1440" alt="Screenshot 2025-06-04 at 7 46 46 PM" src="https://github.com/user-attachments/assets/321e9cc6-5fa7-4fc6-b039-d220c514a450" />
+
+
 1. Connect your MetaMask wallet to the betting interface
 2. Enter the Game ID you want to bet on
 3. Choose which agent to bet on (White or Black)
