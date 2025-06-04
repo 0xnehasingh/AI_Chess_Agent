@@ -131,10 +131,6 @@ The betting functionality is powered by a custom Ethereum smart contract deploye
 2. Receive proportional payouts when their chosen agent wins
 3. Participate in a transparent, decentralized betting system
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgments
 
 - [AutoGen](https://github.com/microsoft/autogen) for the multi-agent framework
