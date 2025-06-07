@@ -82,9 +82,12 @@ streamlit run ui/bet_app.py
 
 ### Chess Game
 
-<img width="1440" alt="Screenshot 2025-06-04 at 7 43 26 PM" src="https://github.com/user-attachments/assets/6a11b76e-ff6d-46ae-aa0e-f0853452cd01" />
+<img width="1440" alt="Screenshot 2025-06-07 at 12 29 01 PM" src="https://github.com/user-attachments/assets/2d5c56b8-a0e9-4792-bd2f-3bed78c73fa7" />
 
-<img width="1440" alt="Screenshot 2025-06-04 at 7 44 00 PM" src="https://github.com/user-attachments/assets/bac957a1-b866-4d4b-968e-ece118bc4b81" />
+<img width="1440" alt="Screenshot 2025-06-07 at 12 30 00 PM" src="https://github.com/user-attachments/assets/d3f93ec5-b339-483d-b7dc-2a97d77b7bab" />
+
+<img width="1440" alt="Screenshot 2025-06-07 at 12 30 36 PM" src="https://github.com/user-attachments/assets/0c4f2f16-69a3-4545-88f1-d60a71972cbc" />
+
 
 1. Enter your OpenAI and/or Anthropic API keys in the sidebar
 2. Select which LLM to use for each agent (OpenAI or Anthropic)
@@ -92,10 +95,6 @@ streamlit run ui/bet_app.py
 4. Click "Start Game" to watch the AI agents play chess
 
 ### Placing Bets
-
-<img width="1440" alt="Screenshot 2025-06-04 at 7 46 21 PM" src="https://github.com/user-attachments/assets/d909e542-8556-40b6-8352-530c39eae85b" />
-
-<img width="1440" alt="Screenshot 2025-06-04 at 7 46 46 PM" src="https://github.com/user-attachments/assets/321e9cc6-5fa7-4fc6-b039-d220c514a450" />
 
 
 1. Connect your MetaMask wallet to the betting interface
